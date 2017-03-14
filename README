@@ -1,0 +1,4 @@
+- IDEA中想跑jmh benchmark的话，需要安装一个插件:在plugins里搜索jmh安装即可
+- 也可直接运行main方法
+- 打包后运行 mvn clean package ; java -jar target/benchmarks.jar JMHSample_01
+
